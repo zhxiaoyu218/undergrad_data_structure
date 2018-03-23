@@ -1,0 +1,31 @@
+****************************
+   CSC172 lab8
+   OUTPUT file
+   Xiaoyu Zhang
+   xzhang81@u.rochester.edu
+****************************
+
+zxyeu_000@xz /cygdrive/e/csc172/lab8
+$ gcc -o lab8 lab8.c
+
+zxyeu_000@xz /cygdrive/e/csc172/lab8
+$ ./lab8 xiaoyu_zhang CSC172
+argument 0: ./lab8
+argument 1: "hello,"xiaoyu_zhang
+argument 2: CSC172
+
+start to print array
+array 0:  0
+array 1:  1
+array 2:  4
+array 3:  9
+array 4:  16
+array 5:  25
+array 6:  36
+array 7:  49
+array 8:  64
+array 9:  81
+
+zxyeu_000@xz /cygdrive/e/csc172/lab8
+$
+
