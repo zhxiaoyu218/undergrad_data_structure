@@ -1,0 +1,163 @@
+****************************
+   CSC172 Proj4
+   OUTPUT file
+   Xiaoyu Zhang
+   xzhang81@u.rochester.edu
+****************************
+
+************************      Shortest distance output       ************************
+C:\Users\zxyeu\Desktop\CSC172\Proj4>javac Proj4.java
+
+C:\Users\zxyeu\Desktop\CSC172\Proj4>java Proj4 ur.txt -show -directions GOERGEN-ATHLETIC CSB
+
+****    Shortest distance from GOERGEN-ATHLETIC to CSB is shown below     ****
+GOERGEN-ATHLETIC
+ to i54
+ to i30
+ to i33
+ to WILSON
+ to RETTNER
+ to i39
+ to TUNNEL-MOREY
+ to TUNNEL-HOYT
+ to i65
+ to i66
+ to i68
+ to i70
+ to i75
+ to CSB
+
+****    The picture of map with shortest distance should be in your current folder, named Map_with_MWST.PNG    ****
+
+
+************************      MWST output       ************************
+
+C:\Users\zxyeu\Desktop\CSC172\Proj4>java Proj4 ur.txt -show -meridianmap
+****   The road of Minimum Weight Spanning Tree is shown below     ****
+r14
+r156
+r1
+r34
+r30
+r9
+r12
+r4
+r11
+r130
+r28
+r37
+r101
+r115
+r45
+r167
+r65
+r52
+r59
+r47
+r41
+r2
+r49
+r105
+r55
+r150
+r57
+r153
+r3
+r161
+r154
+r61
+r22
+r176
+r5
+r73
+r79
+r165
+r142
+r21
+r162
+r179
+r40
+r15
+r53
+r51
+r68
+r7
+r32
+r139
+r136
+r20
+r26
+r133
+r24
+r72
+r19
+r114
+r126
+r83
+r6
+r104
+r76
+r75
+r33
+r122
+r93
+r137
+r96
+r86
+r159
+r138
+r99
+r177
+r31
+r39
+r58
+r123
+r118
+r144
+r98
+r120
+r160
+r35
+r78
+r85
+r66
+r90
+r157
+r25
+r119
+r43
+r125
+r113
+r87
+r128
+r102
+r180
+r127
+r140
+r111
+r92
+r141
+r124
+r151
+r178
+r181
+r145
+r164
+r170
+r129
+r148
+r175
+r152
+r155
+r147
+r132
+r173
+r174
+r100
+r166
+r171
+r84
+
+****   The picture of map with Minimum Weight Spanning Tree should be in your current folder, named Map_with_ShortestPath.PNG    ****
+
+C:\Users\zxyeu\Desktop\CSC172\Proj4>
