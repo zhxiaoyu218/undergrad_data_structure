@@ -1,0 +1,42 @@
+****************************
+   CSC172 lab5
+   OUTPUT file
+   Xiaoyu Zhang
+   xzhang81@u.rochester.edu
+****************************
+
+
+G:\CSC172\lab5\src\lab5>javac lab5.java
+
+G:\CSC172\lab5\src\lab5>java lab5
+The list is empty
+The element in my List are printed in forward order:
+        A
+        B
+        1
+        test
+
+The element in my List are printed in reverse order:
+        test
+        1
+        B
+        A
+
+If I wanna insert element ('B') already in list :
+   ---The element B is already contained in list
+
+If I wanna delete element ('C') not in list :
+   ---The element C is not contained in list
+
+The printlist after element 'B' is deleted :
+        A
+        1
+        test
+
+The lookup for element '1' is :   1
+The lookup for element 'Z' which is not in list :   null
+The list is not empty
+
+
+
+

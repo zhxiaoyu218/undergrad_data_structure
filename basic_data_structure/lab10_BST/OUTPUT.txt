@@ -1,0 +1,45 @@
+****************************
+   CSC172 lab10
+   OUTPUT file
+   Xiaoyu Zhang
+   xzhang81@u.rochester.edu
+****************************
+
+
+G:\CSC172\lab10\src\lab10>javac lab10.java
+
+G:\CSC172\lab10\src\lab10>java lab10
+
+50 75 37 25 61 55 30 15 68 36 28 59 are inserted in order
+
+If want to insert 50 again (which is contained in tree)
+  element 50 already contained in tree
+
+Print tree preorder
+ 50 37 25 15 30 28 32 36 75 61 55 59 68
+
+Print tree inorder
+ 15 25 28 30 32 36 37 50 55 59 61 68 75
+
+Print tree postorder
+ 15 28 36 32 30 25 37 59 55 68 61 75 50
+
+Delete element that not in tree e.g. 10000
+  element 10000 is not contained in tree
+
+Delete a leaf on the tree which is 15 :
+ Print tree preorder
+ 50 37 25 30 28 32 36 75 61 55 59 68
+
+Delete item with single child on the tree which is 75 :
+ Print tree preorder
+ 50 37 25 30 28 32 36 61 55 59 68
+
+Delete item with two children on the tree which is 50 :
+ Print tree preorder
+ 55 37 25 30 28 32 36 61 59 68
+
+
+
+
+

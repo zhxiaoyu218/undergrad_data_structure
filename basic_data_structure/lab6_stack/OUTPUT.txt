@@ -1,0 +1,26 @@
+****************************
+   CSC172 lab6
+   OUTPUT file
+   Xiaoyu Zhang
+   xzhang81@u.rochester.edu
+****************************
+
+
+G:\CSC172\lab6\src\lab6>javac lab6.java
+
+G:\CSC172\lab6\src\lab6>java lab6
+The stack is empty?: true
+  push 'A' into stack
+  push 'B' into stack
+  push 'C' into stack
+  push 'D' into stack
+  push 'E' into stack
+
+Top of stack is E
+
+  pop 1: E
+  pop 2: D
+  pop 3: C
+  pop 4: B
+  pop 5: A
+  pop 6: null

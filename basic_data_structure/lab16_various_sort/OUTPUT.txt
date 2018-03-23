@@ -1,0 +1,86 @@
+****************************
+   CSC172 lab16
+   OUTPUT file
+   Xiaoyu Zhang
+   xzhang81@u.rochester.edu
+****************************
+
+
+G:\CSC172\lab16\lab16>javac lab16.java
+
+G:\CSC172\lab16\lab16>java lab16
+Check all sort method working 
+Original array is 
+		[27, 9, 52, 84, 10, 20, 57, 35, 59, 23, 21, 92, 50, 12, 0, 87, 44, 80, 26, 96, 78, 53, 2, 42, 48, 26, 33, 26, 13, 82]
+After Bubble sort  is 
+		[0, 2, 9, 10, 12, 13, 20, 21, 23, 26, 26, 26, 27, 33, 35, 42, 44, 48, 50, 52, 53, 57, 59, 78, 80, 82, 84, 87, 92, 96]
+After Insertion sort  is 
+		[0, 2, 9, 10, 12, 13, 20, 21, 23, 26, 26, 26, 27, 33, 35, 42, 44, 48, 50, 52, 53, 57, 59, 78, 80, 82, 84, 87, 92, 96]
+After Shell sort  is 
+		[0, 2, 9, 10, 12, 13, 20, 21, 23, 26, 26, 26, 27, 33, 35, 42, 44, 48, 50, 52, 53, 57, 59, 78, 80, 82, 84, 87, 92, 96]
+After sort() method is 
+		[0, 2, 9, 10, 12, 13, 20, 21, 23, 26, 26, 26, 27, 33, 35, 42, 44, 48, 50, 52, 53, 57, 59, 78, 80, 82, 84, 87, 92, 96]
+After Quick sort  is 
+		[0, 2, 9, 10, 12, 13, 20, 21, 23, 26, 26, 26, 27, 33, 35, 42, 44, 48, 50, 52, 53, 57, 59, 78, 80, 82, 84, 87, 92, 96]
+
+
+******************  Bubble Sort  ******************
+	took 7571 moves to sort 100 items in 0 millesec
+	took 726267 moves to sort 1000 items in 13 millesec
+	took 18613616 moves to sort 5000 items in 68 millesec
+	took 74686095 moves to sort 10000 items in 288 millesec
+	took 296635316 moves to sort 20000 items in 1229 millesec
+	took 667717261 moves to sort 30000 items in 2807 millesec
+	took 1184968025 moves to sort 40000 items in 5065 millesec
+	took 1855150565 moves to sort 50000 items in 8298 millesec
+	took 2675716652 moves to sort 60000 items in 12079 millesec
+	took 3633430628 moves to sort 70000 items in 16105 millesec
+	took 7436178162 moves to sort 100000 items in 33851 millesec
+******************  Insertion Sort  ******************
+	 took 2679 moves to sort 100 items in 0 millesec
+	 took 253535 moves to sort 1000 items in 9 millesec
+	 took 6180757 moves to sort 5000 items in 20 millesec
+	 took 24704949 moves to sort 10000 items in 50 millesec
+	 took 99059176 moves to sort 20000 items in 204 millesec
+	 took 223251580 moves to sort 30000 items in 449 millesec
+	 took 396067372 moves to sort 40000 items in 791 millesec
+	 took 617476538 moves to sort 50000 items in 1245 millesec
+	 took 891788608 moves to sort 60000 items in 1803 millesec
+	 took 1212101745 moves to sort 70000 items in 2425 millesec
+	 took 2472930122 moves to sort 100000 items in 4891 millesec
+******************  shell Sort  ******************
+	took 1414 moves to sort 100 items in 0 millesec
+	took 22024 moves to sort 1000 items in 0 millesec
+	took 151807 moves to sort 5000 items in 5 millesec
+	took 331834 moves to sort 10000 items in 4 millesec
+	took 739995 moves to sort 20000 items in 3 millesec
+	took 1063942 moves to sort 30000 items in 4 millesec
+	took 1590561 moves to sort 40000 items in 7 millesec
+	took 1884932 moves to sort 50000 items in 7 millesec
+	took 2304098 moves to sort 60000 items in 9 millesec
+	took 2820132 moves to sort 70000 items in 11 millesec
+	took 4095755 moves to sort 100000 items in 15 millesec
+******************  Sort() method  ******************
+	sort 100 items in 0 millesec
+	sort 1000 items in 0 millesec
+	sort 5000 items in 1 millesec
+	sort 10000 items in 3 millesec
+	sort 20000 items in 8 millesec
+	sort 30000 items in 11 millesec
+	sort 40000 items in 17 millesec
+	sort 50000 items in 13 millesec
+	sort 60000 items in 8 millesec
+	sort 70000 items in 6 millesec
+	sort 100000 items in 9 millesec
+******************  Quick Sort  ******************
+	took 462 moves to sort 100 items in 0 millesec
+	took 6904 moves to sort 1000 items in 0 millesec
+	took 45211 moves to sort 5000 items in 1 millesec
+	took 99089 moves to sort 10000 items in 1 millesec
+	took 218076 moves to sort 20000 items in 1 millesec
+	took 345104 moves to sort 30000 items in 2 millesec
+	took 471909 moves to sort 40000 items in 2 millesec
+	took 608991 moves to sort 50000 items in 3 millesec
+	took 746311 moves to sort 60000 items in 3 millesec
+	took 886388 moves to sort 70000 items in 3 millesec
+	took 1323957 moves to sort 100000 items in 6 millesec

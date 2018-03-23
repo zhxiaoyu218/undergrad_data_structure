@@ -1,0 +1,29 @@
+****************************
+   CSC172 lab7
+   OUTPUT file
+   Xiaoyu Zhang
+   xzhang81@u.rochester.edu
+****************************
+
+
+G:\CSC172\lab7\src\lab7>javac lab7.java
+
+G:\CSC172\lab7\src\lab7>java lab7
+The queue is empty?: true
+
+  enqueue 'A' into stack
+  enqueue 'B' into stack
+  enqueue 'C' into stack
+  enqueue 'D' into stack
+  enqueue 'E' into stack
+
+ Top of queue is A
+
+  dequeue 1: A
+  dequeue 2: B
+  dequeue 3: C
+  dequeue 4: D
+  dequeue 5: E
+  dequeue 6: null
+
+

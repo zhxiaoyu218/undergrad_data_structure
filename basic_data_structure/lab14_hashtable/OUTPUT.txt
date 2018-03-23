@@ -1,0 +1,197 @@
+****************************
+   CSC172 lab14
+   OUTPUT file
+   Xiaoyu Zhang
+   xzhang81@u.rochester.edu
+****************************
+
+
+H:\CSC172\lab14\src\lab14>javac lab14.java
+
+H:\CSC172\lab14\src\lab14>java lab14 input1.txt
+
+Part 1-4, start with insert these name:
+   gray   anna   eugene   daniel   emma
+
+  Capacity of this hashtable is: 13
+  The number of unique items contained: 5
+  Load factor: 0.3846154
+
+  Print out non-null string from hash table: 
+	gray 
+	emma 
+	daniel 
+	eugene 
+	anna 
+
+
+Part 5, read Lorem Ipsum text and enter the words into hash table
+  Print out unique words from hash table: 
+	 
+	Vestibulum 
+	eleifend 
+	Maecenas 
+	faucibus 
+	lorem 
+	erat 
+	tellus 
+	efficitur 
+	quam 
+	interdum 
+	Donec 
+	congue 
+	sagittis 
+	massa 
+	enim 
+	vel 
+	sit 
+	ornare 
+	tristique 
+	rutrum 
+	Curae; 
+	id 
+	dignissim 
+	elementum 
+	Quisque 
+	porta 
+	in 
+	suscipit 
+	fringilla 
+	metus 
+	ultrices 
+	dolor 
+	Cras 
+	magna 
+	accumsan 
+	facilisi 
+	non 
+	pulvinar 
+	consequat 
+	augue 
+	arcu 
+	leo 
+	sed 
+	mattis 
+	primis 
+	ut 
+	vulputate 
+	eget 
+	Nullam 
+	iaculis 
+	viverra 
+	nec 
+	Praesent 
+	euismod 
+	vestibulum 
+	hendrerit 
+	a 
+	adipiscing 
+	libero 
+	quis 
+	convallis 
+	posuere 
+	et 
+	eu 
+	condimentum 
+	Etiam 
+	eros 
+	ex 
+	odio 
+	Fusce 
+	sollicitudin 
+	sapien 
+	Vivamus 
+	dapibus 
+	ultricies 
+	purus 
+	turpis 
+	aliquet 
+	commodo 
+	nulla 
+	nibh 
+	pretium 
+	urna 
+	Proin 
+	tortor 
+	risus 
+	placerat 
+	nisl 
+	mauris 
+	lectus 
+	Sed 
+	vehicula 
+	porttitor 
+	neque 
+	egestas 
+	at 
+	lobortis 
+	maximus 
+	molestie 
+	pharetra 
+	lacus 
+	Aenean 
+	finibus 
+	Integer 
+	facilisis 
+	tincidunt 
+	consectetur 
+	blandit 
+	tempus 
+	sodales 
+	imperdiet 
+	Duis 
+	velit 
+	ante 
+	mollis 
+	luctus 
+	Nunc 
+	elit 
+	dictum 
+	volutpat 
+	Suspendisse 
+	lacinia 
+	scelerisque 
+	Nam 
+	Nulla 
+	vitae 
+	diam 
+	Phasellus 
+	ligula 
+	pellentesque 
+	Pellentesque 
+	fermentum 
+	bibendum 
+	gravida 
+	sem 
+	malesuada 
+	auctor 
+	Morbi 
+	feugiat 
+	Aliquam 
+	dui 
+	In 
+	cursus 
+	orci 
+	laoreet 
+	semper 
+	justo 
+	Ut 
+	venenatis 
+	nisi 
+	felis 
+	varius 
+	ac 
+	nunc 
+	amet 
+	est 
+	cubilia 
+	ullamcorper 
+	ipsum 
+	tempor 
+	Mauris 
+	rhoncus 
+	aliquam 
+	mi 
+  The number of unique words:       196
+  The total count of words read in: 1109
+  The full size of hash table:      416

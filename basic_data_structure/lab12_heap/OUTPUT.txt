@@ -1,0 +1,29 @@
+****************************
+   CSC172 lab12
+   OUTPUT file
+   Xiaoyu Zhang
+   xzhang81@u.rochester.edu
+****************************
+
+
+G:\CSC172\lab12\src\lab12>javac lab12.java
+
+G:\CSC172\lab12\src\lab12>java lab12
+
+The size of default heap is  10
+
+The capacity of heap start with 4, I will insert 11 numbers. So heap have to expand 2 times 
+The size of heap is 0, heap is empty? true
+The number that inserted are : 
+   1 13 21 24 16 68 31 100 65 32 19 
+The size of heap is 11, heap is empty?   false
+
+delete minimum 1
+   13 16 21 24 19 68 31 100 65 32 
+delete minimum 13
+   16 19 21 24 32 68 31 100 65 
+
+Testing heapify array with array of random number:
+   60 3 13 27 72 56 32 94 41 48 12 87 42 90 
+The re-arranging result is: 
+   3 12 13 41 27 42 32 94 60 72 48 87 56 90 
